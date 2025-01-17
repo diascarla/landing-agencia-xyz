@@ -5,5 +5,6 @@ Foi desenvolvida uma página usando Grid com elementos interativos.
 ### Página
 <img src="./Animação-landing- page-com-grid.gif" alt="tela da página">
 ## Tecnologias utilizadas
+
 - HTML
 - CSS
